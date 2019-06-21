@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/diogopontual/.platformio/penv/bin:/home/diogopontual/.platformio/penv:/home/diogopontual/.nvm/versions/node/v10.14.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/platform-tools:/opt/android-sdk/tools:/opt/android-sdk/tools/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/opt/android-sdk/platform-tools:/opt/android-sdk/tools:/opt/android-sdk/tools/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
